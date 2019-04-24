@@ -1,0 +1,5 @@
+-log_dir=./log
+-logbuflevel=-1
+-cal_top_query_cnt=10
+-alg=PQ25
+-nprobe=10000
